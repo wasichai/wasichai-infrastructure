@@ -1,0 +1,12 @@
+# local secrets (tokens, api keys): never committed
+.local/
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# local harness settings
+.claude/
+.superpowers/
